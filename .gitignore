@@ -1,2 +1,6 @@
 .env
 .python-version
+
+# CHOMA DB directory
+chroma_db/
+**/chroma_db/
