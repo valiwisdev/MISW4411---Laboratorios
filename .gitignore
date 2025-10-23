@@ -4,3 +4,6 @@
 # CHOMA DB directory
 chroma_db/
 **/chroma_db/
+
+#apikey
+apikey.json
