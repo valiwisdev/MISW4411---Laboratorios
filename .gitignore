@@ -7,3 +7,10 @@ chroma_db/
 
 #apikey
 apikey.json
+
+
+# pycache
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd    
